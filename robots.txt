@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-5e5ub7.privatetalks.online/sitemap.xml
